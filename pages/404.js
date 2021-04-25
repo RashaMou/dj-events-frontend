@@ -12,7 +12,7 @@ export default function NotFoundPage() {
                 </h1>
                 <h4>Sorry, there is nothing here</h4>
                 <Link href="/">
-                    <a>Go back home</a>
+                    <a>{"<"} Go back home</a>
                 </Link>
             </div>
         </Layout>
